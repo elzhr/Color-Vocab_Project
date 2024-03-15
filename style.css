@@ -1,0 +1,20 @@
+p{
+    color: purple;
+}
+
+.g1{
+    color: green;
+}
+
+.b{
+    color: blue;
+}
+
+
+#grey{
+    color: grey;
+}
+
+*{
+    font-weight: normal;
+}
